@@ -1,0 +1,10 @@
+#root {
+  font-family: 'Open Sans', sans-serif;  
+  padding-top: 30px;
+}
+
+textarea {
+  font-family: 'Open Sans', sans-serif;  
+  resize: vertical;
+  width: 100%;
+}
